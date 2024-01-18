@@ -1,4 +1,5 @@
-### Hi there 👋
+![image](https://github.com/Hachi282/Hachi282/assets/47174514/5f12bf88-5785-42f9-a11f-b15911a74e2e)
+
 
 <!--
 **Hachi282/Hachi282** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
